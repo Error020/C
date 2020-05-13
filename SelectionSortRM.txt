@@ -1,0 +1,2 @@
+Selection sort is a sorting algorithm which sorts an array of numbers in its correct order. 
+EXAMPLE : 1337, 12, 14, 42 ---> 12, 14, 42, 1337
